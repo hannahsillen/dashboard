@@ -1,0 +1,31 @@
+body {
+  margin: 4em;
+  background-color: rgb(146, 173, 198);
+}
+
+nav li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+nav {
+  margin-bottom: 2em;
+  font-size: 30px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: rgb(235, 188, 149);
+}
+
+a,
+a:focus,
+a:visited {
+  color: rgb(243, 162, 136);
+  outline: none;
+}
